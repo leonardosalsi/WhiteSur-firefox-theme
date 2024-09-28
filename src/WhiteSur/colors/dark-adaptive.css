@@ -105,8 +105,8 @@
 	--gnome-inactive-urlbar-border-color: color-mix(in srgb, currentColor 10%, transparent);
 	--gnome-inactive-urlbar-box-shadow: none;
 	--gnome-inactive-urlbar-color: var(--toolbar-field-color);
-	--gnome-focused-urlbar-border-color: #338CBE;
-	--gnome-focused-urlbar-highlight-color: #006EA0;
+	--gnome-focused-urlbar-border-color: #87b1f5;
+	--gnome-focused-urlbar-highlight-color: #87b1f5;
 	--gnome-private-urlbar-background: var(--toolbar-field-background-color);
 
 	/* Tabs */
@@ -128,7 +128,7 @@
 	--gnome-tab-attention-icon-color: #718be8;
 
 	/* Switch */
-	--gnome-switch-background: #464646;
+	--gnome-switch-background: #373b4c;
 	--gnome-switch-hover-background: #525252;
 	--gnome-switch-active-background: #606060;
 	--gnome-switch-border-color: transparent;
@@ -156,7 +156,7 @@
 	--gnome-private-toolbar-background: var(--gnome-headerbar-background);
 	--gnome-private-inactive-toolbar-background: var(--gnome-inactive-headerbar-background);
 	/* Menus */
-	--gnome-private-menu-background: #383838;
+	--gnome-private-menu-background: #373b4c;
 	/* Header bar */
 	--gnome-private-headerbar-background: #252F49;
 	--gnome-private-inactive-headerbar-background: var(--gnome-private-toolbar-background);
