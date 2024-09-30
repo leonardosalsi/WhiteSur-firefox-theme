@@ -33,8 +33,23 @@
      inkscape:current-layer="svg1781" />
   <path
      d="m8 15c3.866 0 7-3.134 7-7 0-3.8661-3.1341-7.0001-7-7.0001-3.866 0-7 3.134-7 7.0001 0 3.8659 3.1341 7 7 7"
-     fill="#ffb083"
+     fill="#f1ae1b"
      fill-rule="evenodd"
      stroke-width=".77797"
      id="path1775" />
+  <rect
+     x="3.9983"
+     y="6.9922"
+     width="8.0001"
+     height="2"
+     ry=".99998"
+     opacity=".5"
+     stroke-width="3.7795"
+     id="rect1777" />
+  <path
+     d="m8 15c3.866 0 7-3.134 7-7 0-3.8661-3.1341-7.0001-7-7.0001-3.866 0-7 3.134-7 7.0001 0 3.8659 3.1341 7 7 7"
+     fill-rule="evenodd"
+     opacity=".25"
+     stroke-width=".77797"
+     id="path1779" />
 </svg>
